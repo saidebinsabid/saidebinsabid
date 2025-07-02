@@ -78,6 +78,14 @@
 
 ---
 
+## 🐍 GitHub Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saidebinsabid/saidebinsabid/output/github-contribution-grid-snake.svg" alt="snake eating my contributions in dark mode" />
+</p>
+
+---
+
 ## 🧠 **My Philosophy**
 
 > “I create modern, human-centered solutions that are impactful and simple for solving real-world issues. These solutions are readable, reusable, and ultimately helpful.”
