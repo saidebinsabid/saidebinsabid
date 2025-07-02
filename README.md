@@ -81,7 +81,7 @@
 ## 🐍 GitHub Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saidebinsabid/saidebinsabid/output/github-contribution-grid-snake.svg" alt="snake eating my contributions in dark mode" />
+  <img src="https://raw.githubusercontent.com/saidebinsabid/saidebinsabid/output/github-contribution-grid-snake.svg" alt="Dark mode snake eating contributions" />
 </p>
 
 ---
