@@ -9,7 +9,7 @@
 ## **ABOUT ME**  
 ### Passion • Objective • Progress
 
-📌 **I'm an enthusiastic and innovative web developer who is passionate about solving problems and creating a clean user interface.** Developing technology to make life simpler, simpler to enjoy, or more meaningful is what defines me.
+📌 **I am an enthusiastic and innovative web developer with a passion for solving problems and crafting clean, user-friendly interfaces. I aim to build technologies that make life simpler, more enjoyable, and meaningful through thoughtful design and efficient development.
 
 ⚙️ I enjoy a challenge. I like the process of coming up with simple, elegant solutions, whether it's for a complex layout, difficult API integration, or performance optimization. That is the driving force behind me.
 
