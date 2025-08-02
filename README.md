@@ -9,7 +9,7 @@
 ## **ABOUT ME**  
 ### Passion • Objective • Progress
 
-📌 **I am an enthusiastic and innovative web developer with a passion for solving problems and crafting clean, user-friendly interfaces. I aim to build technologies that make life simpler, more enjoyable, and meaningful through thoughtful design and efficient development.
+📌 I am an enthusiastic and innovative web developer with a passion for solving problems and crafting clean, user-friendly interfaces. I aim to build technologies that make life simpler, more enjoyable, and meaningful through thoughtful design and efficient development.
 
 ⚙️ I enjoy a challenge. I like the process of coming up with simple, elegant solutions, whether it's for a complex layout, difficult API integration, or performance optimization. That is the driving force behind me.
 
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" / >
+<!--   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" / > -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
