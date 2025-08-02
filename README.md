@@ -2,7 +2,7 @@
 
 # Saide Bin Sabid
 
-### A Web Developer &nbsp;||&nbsp; Problem Solver &nbsp;||&nbsp; A Frontend Developer
+### Full-Stack Web Developer &nbsp;||&nbsp; Problem Solver &nbsp;||&nbsp; A Frontend Developer
 
 ---
 
